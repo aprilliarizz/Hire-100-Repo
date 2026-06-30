@@ -1,15 +1,24 @@
 # Hire-100-Repo
 Readme.md
 
+Hi
+This is a task
 
-#Hello This is a test 
+Steps:
+Installed Cursor from executable.
 
-#Steps:
-#Installed Cursor from executable.
-#Installed Claude & Codex extensions.
-#Made a readme.md file 
-#Pushed it publicly & then into cursor by cloning it from github.
-#Sent you the link 
-#You're reading it!!
+Installed Claude & Codex extensions.
 
-#Bye
+Made a readme.md file 
+
+Pushed it publicly & then into cursor by cloning it from github.
+
+Failed to commit changes then figured out to add user.name & User.email.
+
+it worked and changes were made and pushed.
+
+Sent you the link 
+
+You're reading it!!
+
+Bye
